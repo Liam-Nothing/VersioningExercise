@@ -1,1 +1,3 @@
-"# VersioningExercise" 
+# VersioningExercise
+
+Exercise school
